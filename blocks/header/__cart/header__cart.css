@@ -1,0 +1,8 @@
+.header__cart{
+    display: none;
+    background-image: url(../../../images/basket.svg);
+    border: none;
+    width: 19px;
+    height: 22px;
+    margin-left: 27px;
+}

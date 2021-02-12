@@ -1,0 +1,4 @@
+.restraunts__cards{
+    display: flex;
+    flex-direction: column;
+}
