@@ -24,3 +24,12 @@
 @import url(../blocks/footer/__navigation/footer__navigation.css);
 @import url(../blocks/footer/__lang/footer__lang.css);
 @import url(../blocks/footer/__select/footer__select.css);
+@import url(../blocks/footer/__hesh/footer__hesh.css);
+@import url(../blocks/footer/__hesh/_green/footer__hesh_green.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__about/footer__about.css);
+
+@import url(../blocks/app/app.css);
+@import url(../blocks/app/__ios/app__ios.css);
+@import url(../blocks/app/__and/app__and.css);

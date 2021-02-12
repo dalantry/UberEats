@@ -1,0 +1,9 @@
+.app__android{
+    background-image: url(../../../images/and.svg);
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 15%;
+    width: 124px;
+    height: 36px;
+}

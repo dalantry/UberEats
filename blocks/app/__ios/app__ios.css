@@ -1,0 +1,10 @@
+.app__ios{
+    background-image: url(../../../images/ios.svg);
+    width: 107px;
+    height: 38px;
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 15%;
+    margin-right: 24.4px;
+}
