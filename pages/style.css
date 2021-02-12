@@ -22,3 +22,5 @@
 @import url(../blocks/footer/__logo/footer__logo.css);
 @import url(../blocks/footer/__line/footer__line.css);
 @import url(../blocks/footer/__navigation/footer__navigation.css);
+@import url(../blocks/footer/__lang/footer__lang.css);
+@import url(../blocks/footer/__select/footer__select.css);
