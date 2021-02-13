@@ -1,0 +1,26 @@
+.link__text{
+    transition: all 0.1s ease-in-out;
+    display: inline-block;
+}
+
+.link__text:hover{
+    transform: scale(1.02);
+    opacity: 0.7;
+}
+
+.link__text:after {
+    display: block;
+    content: "";
+    height: 2px;
+    background-color: #fff;
+    margin-top: 1%;
+    width: 0%;
+    left: 0;
+    position: absolute;
+    transition: all 0.1s ease-in-out;
+}
+
+.link__text:hover:after,
+.link__text:focus:after {
+    width: 70%;
+}

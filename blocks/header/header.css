@@ -1,7 +1,10 @@
 .header{
+    margin: 0 auto;
+    top: 0;
+    max-width: 962px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 16px 14px 16px 4px;
-    box-shadow: 0px 0px 16px rgba(38, 38, 38, 0.16);
+    z-index: 1000;
 }
