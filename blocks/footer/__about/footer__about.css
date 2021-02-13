@@ -5,5 +5,13 @@
 }
 
 .footer__about:nth-child(2){
-    margin-top: 0;
+    margin: 0;
+}
+
+@media screen and (min-width: 750px){
+    .footer__about{
+        margin-top: 0;
+        margin-bottom: 25px;
+    }
+
 }

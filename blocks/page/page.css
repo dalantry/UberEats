@@ -1,4 +1,16 @@
-.page{
-    max-width: 320px;
+.page {
+    min-width: 320px;
     margin: 0 auto;
+}
+
+@media screen and (max-width: 720px) {
+    .page {
+        max-width: 720px;
+    }
+}
+
+@media screen and (min-width: 721px) {
+    .page {
+        max-width: 962px;
+    }
 }

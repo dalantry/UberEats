@@ -1,4 +1,9 @@
 .footer__line{
     border-top: 1px solid #fff;
     opacity: 0.4;
+    margin: 40px 0 40px;
+}
+
+.footer__line:first-child{
+    margin: 40px 0 32px;
 }

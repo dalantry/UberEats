@@ -1,5 +1,17 @@
 .card{
     display: flex;
     flex-direction: column;
-    width: 100%;
+    max-width: 308px;
+}
+
+@media screen and (min-width:500px){
+    .card{
+        max-width: 368px;
+    }
+}
+
+@media screen and (min-width:950px){
+    .card{
+        max-width: 368px;
+    }
 }
