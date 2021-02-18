@@ -70,3 +70,6 @@
 @import url(../blocks/item/__subtitle/item__subtitle.css);
 @import url(../blocks/item/__info/item__info.css);
 @import url(../blocks/item/__price/item__price.css);
+
+@import url(../blocks/form-auth/form-auth.css);
+@import url(../blocks/form-auth/_active/form-auth_active.css);

@@ -10,10 +10,21 @@
 
 <body>
     <main class="page">
+
+        <section class="form-auth">
+            <form class="form-auth__card">
+              <h2 class="form-auth__title">Имя</h2>
+              <input type="text" class="form-auth__input">
+              <h2 class="form-auth__title">Пароль</h2>
+              <input type="password" class="form-auth__input">
+              <button class="form-auth__button">Войти</button>
+            </form>
+          </section>
+          
         <div class="content">
             <header class="header">
                 <a href="./index.html" target="_blank" class="link">
-                <img src="./images/logo.svg" alt="Uber Eats" class="header__logo link__icon">
+                    <img src="./images/logo.svg" alt="Uber Eats" class="header__logo link__icon">
                 </a>
                 <div class="header__buttons">
                     <button class="header__auth link__icon">Войти</button>
@@ -32,14 +43,26 @@
         </div>
         <section class="menu">
             <div class="content_menu">
-            <nav class="menu__nav">
-                <a href="" class="link"><p class="menu__links menu__links_active">Закуски</p></a>
-                <a href="" class="link link__text"><p class="menu__links">Салаты</p></a>
-                <a href="" class="link link__text"><p class="menu__links">Супы</p></a>
-                <a href="" class="link link__text"><p class="menu__links">Горячие блюда</p></a>
-                <a href="" class="link link__text"><p class="menu__links">Гарниры</p></a>
-                <a href="" class="link link__text"><p class="menu__links">Десерты</p></a>
-            </nav>
+                <nav class="menu__nav">
+                    <a href="" class="link">
+                        <p class="menu__links menu__links_active">Закуски</p>
+                    </a>
+                    <a href="" class="link link__text">
+                        <p class="menu__links">Салаты</p>
+                    </a>
+                    <a href="" class="link link__text">
+                        <p class="menu__links">Супы</p>
+                    </a>
+                    <a href="" class="link link__text">
+                        <p class="menu__links">Горячие блюда</p>
+                    </a>
+                    <a href="" class="link link__text">
+                        <p class="menu__links">Гарниры</p>
+                    </a>
+                    <a href="" class="link link__text">
+                        <p class="menu__links">Десерты</p>
+                    </a>
+                </nav>
             </div>
             <h2 class="menu__title">Закуски</h2>
             <div class="menu__cards">
@@ -141,6 +164,7 @@
             </footer>
         </div>
     </main>
+    <script src="./main.js"></script>
 </body>
 
 </html>
