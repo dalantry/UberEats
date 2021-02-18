@@ -1,0 +1,17 @@
+.menu__cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 43px 0 40px 0;
+}
+
+@media screen and (min-width: 1000px){
+    .menu__cards{
+        max-width: 980px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 16px;
+    }
+}

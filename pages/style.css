@@ -3,6 +3,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/_footer/content_footer.css);
+@import url(../blocks/content/_menu/content_menu.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -44,3 +45,28 @@
 
 @import url(../blocks/link/__text/link__text.css);
 @import url(../blocks/link/__icon/link__icon.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/link/__card/link__card.css);
+
+@import url(../blocks/content/_rest/content_rest.css);
+
+@import url(../blocks/preview/preview.css);
+@import url(../blocks/preview/__title/preview__title.css);
+@import url(../blocks/preview/__subtitle/preview__subtitle.css);
+@import url(../blocks/preview/__time/preview__time.css);
+
+@import url(../blocks/menu/__nav/menu__nav.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__title/menu__title.css);
+@import url(../blocks/menu/__cards/menu__cards.css);
+@import url(../blocks/menu/__links/menu__links.css);
+@import url(../blocks/menu/__links/_active/menu__links_active.css);
+
+@import url(../blocks/box/box.css);
+
+@import url(../blocks/item/item.css);
+@import url(../blocks/item/__image/item__image.css);
+@import url(../blocks/item/__title/item__title.css);
+@import url(../blocks/item/__subtitle/item__subtitle.css);
+@import url(../blocks/item/__info/item__info.css);
+@import url(../blocks/item/__price/item__price.css);

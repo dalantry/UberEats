@@ -1,0 +1,5 @@
+@media screen and (min-width: 900px) {
+    .content_menu {
+        border: 1px solid rgba(117, 117, 117, 0.2);
+    }
+}

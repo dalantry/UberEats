@@ -1,0 +1,15 @@
+.menu{
+    margin-top: 100px;
+}
+
+@media screen and (min-width: 450px){
+    .menu{
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .menu{
+       
+    }
+}

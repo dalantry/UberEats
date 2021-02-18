@@ -1,0 +1,8 @@
+.link__card{
+    transition: all 0.2s ease-in-out;
+}
+
+.link__card:hover{
+    transform: scale(1.03);
+    cursor: pointer;
+}

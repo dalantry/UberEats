@@ -1,0 +1,17 @@
+.preview {
+    margin-bottom: -60px;
+    padding: 24px 0;
+    width: 308px;
+    background-color: #fff;
+    box-shadow: 0px 0px 16px rgba(117, 117, 117, 0.2);
+    border-radius: 2px;
+}
+
+@media screen and (min-width: 450px){
+    .preview{
+        width: 432px;
+        display: grid;
+        grid-template-areas: 'title title'
+                             'subtitle time';
+    }
+}

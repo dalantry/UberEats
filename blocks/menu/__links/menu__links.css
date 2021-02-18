@@ -1,0 +1,9 @@
+.menu__links {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #626262;
+    margin: 0 40px 0 0;
+}

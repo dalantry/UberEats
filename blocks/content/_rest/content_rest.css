@@ -1,0 +1,20 @@
+.content_rest{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: 72px;
+    width: 100%;
+    min-height: 255px;
+    background-image: url(../../../images/d42ea9bbf7aff297c2e1eb5e5f3b7fa6-w1080-87.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (min-width: 450px){
+    .content_rest{
+        display: block;
+        background-image: url(../../../images/back.png);
+        background-size: cover;
+        padding: 80px 0 80px 8px;
+    }
+}

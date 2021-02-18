@@ -1,5 +1,6 @@
 .link__icon{
     transition: all 0.1s ease-in-out;
+    outline: none;
 }
 
 .link__icon:hover{

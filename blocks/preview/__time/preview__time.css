@@ -1,0 +1,15 @@
+.preview__time {
+    padding: 9px 16px 8px;
+    margin:0 auto;
+    border-radius: 16px;
+    background-color: #262626;
+    color: #fff;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    max-width: 98px;
+    text-align: center;
+    grid-area: time;
+}
