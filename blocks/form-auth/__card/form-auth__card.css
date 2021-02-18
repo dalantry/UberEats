@@ -1,0 +1,7 @@
+.form-auth__card{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(221, 221, 221);
+    padding: 20px;
+    border-radius: 15px;
+}
